@@ -10,7 +10,8 @@ async function uploadFile() {
     const formData = new FormData();
     formData.append('file', file);
 
-    const response = await fetch('http://localhost:3000/upload', {
+    const response = await fetch('https://excel-data-processor-na1d.onrender.com/upload', {
+
         method: 'POST',
         body: formData
     });
