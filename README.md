@@ -1,6 +1,14 @@
 # 📊 Excel Data Processor
 
-Aplicación web fullstack que permite subir archivos Excel, procesarlos automáticamente y visualizar los datos de forma estructurada en una interfaz web.
+Aplicación web fullstack que permite subir archivos Excel, procesarlos automáticamente y visualizar los datos de forma estructurada en una interfaz moderna.
+
+## 🌐 Demo en vivo
+
+👉 https://excel-data-processor-2.onrender.com/
+
+⚠️ Nota: El servidor puede tardar unos segundos en responder debido al uso del plan gratuito de Render.
+
+---
 
 ## 🚀 Características
 
@@ -11,12 +19,16 @@ Aplicación web fullstack que permite subir archivos Excel, procesarlos automát
 * Validación de datos en backend
 * Interfaz moderna y responsiva
 
+---
+
 ## 🧠 Tecnologías utilizadas
 
 * **Backend:** Node.js, Express
 * **Frontend:** HTML, CSS, JavaScript
 * **Procesamiento de datos:** XLSX
 * **Otros:** Multer, CORS
+
+---
 
 ## 📂 Estructura del proyecto
 
@@ -33,6 +45,8 @@ excel-data-processor/
 │
 └── README.md
 
+---
+
 ## ⚙️ Instalación
 
 ### 1. Clonar repositorio
@@ -48,6 +62,8 @@ node server.js
 ### 3. Frontend
 
 Abrir el archivo `frontend/index.html` en el navegador
+
+---
 
 ## 📊 Uso
 
@@ -70,19 +86,25 @@ La aplicación procesará los datos y mostrará:
 * Promedio
 * Tabla de datos
 
+---
+
 ## 📸 Vista previa
 
 *(Agrega aquí una captura de pantalla del proyecto)*
 
+---
+
 ## 🔥 Futuras mejoras
 
-* Validaciones avanzadas
 * Dashboard con gráficos
-* Despliegue en la nube (AWS)
-* Contenerización con Docker
+* Exportación de resultados
 * Autenticación de usuarios
+* Dockerización del proyecto
+* Despliegue en AWS con Terraform
+
+---
 
 ## 👨‍💻 Autor
 
 Emerson Arce
-Proyecto desarrollado como parte de portafolio para desarrollo, automatización y manejo de datos.
+Proyecto desarrollado como parte de portafolio enfocado en desarrollo, automatización y cloud.
