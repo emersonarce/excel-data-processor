@@ -90,7 +90,7 @@ La aplicación procesará los datos y mostrará:
 
 ## 📸 Vista previa
 
-*(Agrega aquí una captura de pantalla del proyecto)*
+![Vista de la app](screenshot.png)
 
 ---
 
